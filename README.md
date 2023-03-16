@@ -6,7 +6,7 @@
     Esse projeto foi criado através do DevClub onde ensinam a programar
 </h4>
 
-<img src="">
+<img src="https://github.com/gabrielcarlos-dev/wide-location/blob/master/img/Bloco%20de%20Texto%20com%20Mockup%20de%20Notebook%20Alinhado%20%C3%A0%20Direita%20(2).png?raw=true">
 <br>
   <h3>💻 DESCRIÇÃO </h3>
 
